@@ -4,7 +4,7 @@ import "./App.css";
 
 
 import Header from "./components/ui/Header";
-import Sidebar from "./components/ui/SideBar";
+import Sidebar from "./components/ui/Sidebar";
 import NotFoundErrorPage from "./components/NotFoundErrorPage";
 // Static Pages
 import About from "./Client/About";
